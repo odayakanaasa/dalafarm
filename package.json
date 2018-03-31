@@ -4,6 +4,11 @@
   "description": "DalaFarm website",
   "main": "index.js",
   "scripts": {
+    "build": "gulp build",
+    "build": "gulp build:components",
+    "demo-app": "gulp serve:devapp",
+    "test": "gulp test",
+    "tslint": "gulp lint",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
