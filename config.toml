@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://dalafarm.vn/"
+baseurl = "http://practical-brown-efe103.netlify.com/"
 languageCode = "vi-vn"
 title = "DalaFarm"
 theme = "e-commerce"
